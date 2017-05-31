@@ -119,7 +119,8 @@ cookie设定，如果网页过期，存盘的cookie将被删除。需要注意�
 # 八、常见的浏览器有哪些，什么内核
 浏览器 | 内核 
 :---: | :---: 
-![](http://upload-images.jianshu.io/upload_images/6125053-b120d29936effade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) IE| Trident 
+![](http://upload-images.jianshu.io/upload_images/6125053-b120d29936effade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+IE| Trident 
 ![](http://upload-images.jianshu.io/upload_images/6125053-93923a24b425e5f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) Firefox| Gecko  
 ![](http://upload-images.jianshu.io/upload_images/6125053-ee167722db2b68b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) Chrome| Webkit  
 ![](http://upload-images.jianshu.io/upload_images/6125053-fc7006d73644e3c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) Safari| Webkit  
